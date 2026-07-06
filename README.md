@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranjal+Raj;Full-Stack+Developer;Backend+Engineer;DSA+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranjalraj0404&style=for-the-badge&color=6366f1" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Pranjalraj0404?style=for-the-badge&color=6366f1" alt="Followers"/>
 </div>
 
----
+<br/>
 
 ## 💫 About Me
 
@@ -17,7 +19,7 @@
 
 Pre-final year Electronics and Communication Engineering student at Bangalore Institute of Technology, Bengaluru, with a strong passion for full-stack web development and problem solving. I specialize in building scalable backend systems and end-to-end web applications using the MERN stack, with hands-on experience in RESTful API design, JWT authentication, and cloud-ready architectures. I have contributed to real-world projects through internships and have built AI-powered and fintech platforms independently. An active competitive programmer with 200+ DSA problems solved, I thrive at the intersection of clean code and practical impact.
 
----
+<br/>
 
 ## 🌐 Connect With Me
 
@@ -31,9 +33,11 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 
 </div>
 
----
+<br/>
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -72,7 +76,19 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pranjalraj0404/Pranjalraj0404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
+</div>
+
+> ⚠️ This shows up once you add the workflow below to this repo — see setup notes underneath.
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -86,7 +102,7 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 
 </div>
 
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
@@ -96,7 +112,7 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 
 </div>
 
----
+<br/>
 
 ## 🔥 Featured Projects
 
@@ -107,13 +123,13 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 | [📊 Finance Dashboard API](https://github.com/Pranjalraj0404/Finance-Dashboard-Backend-API) | Scalable finance backend with RBAC | Node.js, Express, MongoDB |
 | [💬 MERN Chat App](https://github.com/Pranjalraj0404/Mern-Chat-Application) | Real-time chat application | MERN, Socket.IO |
 
----
+<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
----
+<br/>
 
 <div align="center">
   
@@ -121,6 +137,10 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
   
   ![](https://visitcount.itsvg.in/api?id=Pranjalraj0404&icon=6&color=6)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
 <!-- Proudly crafted with 💛 -->
