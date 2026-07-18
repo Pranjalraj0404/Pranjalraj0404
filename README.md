@@ -17,7 +17,13 @@
 
 > *"I don't just write code — I engineer systems."*
 
-Pre-final year Electronics and Communication Engineering student at Bangalore Institute of Technology, Bengaluru, with a strong passion for full-stack web development and problem solving. I specialize in building scalable backend systems and end-to-end web applications using the MERN stack, with hands-on experience in RESTful API design, JWT authentication, and cloud-ready architectures. I have contributed to real-world projects through internships and have built AI-powered and fintech platforms independently. An active competitive programmer with 200+ DSA problems solved, I thrive at the intersection of clean code and practical impact.
+Pre-final year Electronics and Communication Engineering student at **Bangalore Institute of Technology**, Bengaluru, with a strong passion for full-stack web development and problem solving. I specialize in building scalable backend systems and end-to-end web applications using the **MERN stack**, with hands-on experience in RESTful API design, JWT authentication, and cloud-ready architectures.
+
+- 🔭 Currently building AI-powered and fintech platforms independently
+- 💼 Backend Developer Intern @ ApexPlanet Software — built 30+ RESTful APIs with RBAC and secure JWT auth
+- 🧠 Solved 300+ DSA problems on LeetCode & GeeksforGeeks (highest contest rating: 1510)
+- 🏆 Built full-stack prototypes at Smart India Hackathon, Walmart Sparkathon, and Adobe HackFest
+- 🌱 Active NSS Volunteer (2024–Present), contributing to community and technical literacy initiatives
 
 <br/>
 
@@ -86,42 +92,23 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
   <img src="https://raw.githubusercontent.com/Pranjalraj0404/Pranjalraj0404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph" />
 </div>
 
-> ⚠️ This shows up once you add the workflow below to this repo — see setup notes underneath.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Pranjalraj0404&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Pranjalraj0404&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalraj0404&theme=shadow_blue&hide_border=false&layout=compact)
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Pranjalraj0404&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 <br/>
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 Interview Prep AI](https://github.com/Pranjalraj0404/Interview-prep-ai) | AI-powered mock interview platform with Gemini API | Next.js, Node.js, MongoDB, Gemini |
-| [💸 EquiSplit](https://github.com/Pranjalraj0404/EquiSplit) | Group expense & payment settlement app | MERN, Razorpay, JWT |
-| [📊 Finance Dashboard API](https://github.com/Pranjalraj0404/Finance-Dashboard-Backend-API) | Scalable finance backend with RBAC | Node.js, Express, MongoDB |
-| [💬 MERN Chat App](https://github.com/Pranjalraj0404/Mern-Chat-Application) | Real-time chat application | MERN, Socket.IO |
+| Project | Description | Tech | Highlights |
+|--------|-------------|------|------------|
+| [🤖 Interview Prep AI](https://github.com/Pranjalraj0404/Interview-prep-ai) | AI-powered mock interview platform with Gemini API | Next.js, Node.js, MongoDB, Gemini | 14 REST endpoints, JWT auth on 10 protected routes, 4-tier Gemini fallback chain, 100% try-catch coverage |
+| [💸 EquiSplit](https://github.com/Pranjalraj0404/EquiSplit) | Group expense & payment settlement app | MERN, Razorpay, JWT, Joi | Graph-based debt simplification, ~100 req/s at sub-100ms latency, ~42ms avg query latency |
+| [📊 Finance Dashboard API](https://github.com/Pranjalraj0404/Finance-Dashboard-Backend-API) | Scalable finance backend with RBAC | Node.js, Express, MongoDB | Role-based access control, structured CRUD workflows |
+| [💬 MERN Chat App](https://github.com/Pranjalraj0404/Mern-Chat-Application) | Real-time chat application | MERN, Socket.IO | Real-time messaging with socket-based architecture |
+
+<br/>
+
+## 🎓 Certifications
+
+- **IBM SkillsBuild** – Artificial Intelligence Fundamentals (March 2026)
+- **Deloitte Australia** – Technology Job Simulation (July 2026)
 
 <br/>
 
@@ -134,8 +121,6 @@ Pre-final year Electronics and Communication Engineering student at Bangalore In
 <div align="center">
   
   **⭐ If you like my work, consider starring my repos!**
-  
-  ![](https://visitcount.itsvg.in/api?id=Pranjalraj0404&icon=6&color=6)
 
 </div>
 
