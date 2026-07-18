@@ -6,13 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranjalraj0404&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Pranjalraj0404?style=for-the-badge&color=6366f1" alt="Followers"/>
-</div>
-
-<br/>
-
 ## 💫 About Me
 
 > *"I don't just write code — I engineer systems."*
@@ -105,7 +98,15 @@ Pre-final year Electronics and Communication Engineering student at **Bangalore 
 
 <br/>
 
-## 🎓 Certifications
+## 🎓 Education
+
+- **Bangalore Institute of Technology**, Bangalore — B.E. in Electronics and Communication Engineering (CGPA: 8.0) | 2023–2027
+- **Bridgeford School**, Ranchi (CBSE) — Intermediate (XII), 84% | 2021–2022
+- **Bridgeford School**, Ranchi (CBSE) — Matriculation (X), 88% | 2019–2020
+
+<br/>
+
+## 📜 Certifications
 
 - **IBM SkillsBuild** – Artificial Intelligence Fundamentals (March 2026)
 - **Deloitte Australia** – Technology Job Simulation (July 2026)
